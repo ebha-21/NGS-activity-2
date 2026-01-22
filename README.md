@@ -1,6 +1,6 @@
 # Activity 2: Identification of an Unknown Biological Sequence Using BLAST
 
-## Student Name: Ebha Chamola ____________
+## Student Name: Ebha Chamola
 
 ## Course / Workshop: NGS Workshop
 
